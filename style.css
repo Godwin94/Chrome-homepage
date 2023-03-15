@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(192, 182, 182);
+    font-family: 'Archivo Black', sans-serif;
+}
+h1{
+    letter-spacing: 4px;
+    font-size: 60px; 
+    position: absolute;
+    top: 22%;   
+    left: 40%;
+}
+div.input{
+    background-color: #fff;
+    width: 500px;
+    height: 20px;
+    padding: 15px 10px;
+    border-radius: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+div input{
+    width: 460px;
+    padding: 6px 0;
+    border: 0;
+    outline: 0;
+}
